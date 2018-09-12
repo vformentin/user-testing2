@@ -25,9 +25,9 @@ footer {
 
 /* Alert */
 .top-bar {
-  background-color:rgb(212, 71, 165);
+  background-color: rgb(190, 189, 189);
   color: white;
-  padding: 20px;
+  padding: 10px;
   border-radius: 0;
   margin-bottom: 0;
 }
